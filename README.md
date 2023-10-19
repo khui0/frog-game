@@ -1,3 +1,3 @@
 # Frog Game
  
-true to life frog action
+Created for Mini Jam 79: Frogs
